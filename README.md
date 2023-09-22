@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=⎝⎛•‿•⎞⎠&fontSize=90&&animation=blinking)
 
-![image](https://github.com/shsewonitw/shsewonitw/assets/50475160/97f49adb-2e45-49de-860b-33835f303a36)
+![image](https://github.com/shsewonitw/shsewonitw/assets/50475160/132d514d-b077-4f69-965b-c2a781ae6552)
 
 ![snake gif](https://github.com/shsewonitw/shsewonitw/blob/output/github-contribution-grid-snake-dark.svg)
 
