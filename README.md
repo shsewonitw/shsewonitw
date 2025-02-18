@@ -12,4 +12,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shsewonitw)](https://solved.ac/shsewonitw)
+
 ![cat-crying-cat](https://github.com/user-attachments/assets/337db39e-2f6c-4705-bf3f-146611db9f00)
